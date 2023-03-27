@@ -4,10 +4,10 @@ Analyzing the sentiment of global financial institutions' investment outlook (as
 
 Links to original research is below:
 
-*Goldman Sachs https://lnkd.in/eKzF_2K4
-*J.P. Morgan https://lnkd.in/eHb6-622
-*Morgan Stanley https://lnkd.in/e2nAMjmM
-*Bank of America https://lnkd.in/e8XFD8TW
+* Goldman Sachs https://lnkd.in/eKzF_2K4
+* J.P. Morgan https://lnkd.in/eHb6-622
+* Morgan Stanley https://lnkd.in/e2nAMjmM
+* Bank of America https://lnkd.in/e8XFD8TW
 *BlackRock https://lnkd.in/eYxCBRGj
 *HSBC https://lnkd.in/eNfBiJvH
 *Barclays https://lnkd.in/eRT4dsFY.
