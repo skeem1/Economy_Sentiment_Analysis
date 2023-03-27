@@ -11,6 +11,10 @@ Analyzing the sentiment of global financial institutions' investment outlook (as
 
 Context on this research was increasining interest rates, ongoing war between Russia and the Ukraine and a reopening China amongst many other things.
 
+## Analysis
+
+Using NLTK, WordCloud, and TextBlob
+
 Links to original research is below:
 
 * Goldman Sachs https://lnkd.in/eKzF_2K4
