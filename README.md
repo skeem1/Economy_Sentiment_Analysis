@@ -1,6 +1,15 @@
 # Economy_Sentiment_Analysis
 
-Analyzing the sentiment of global financial institutions' investment outlook (as of Jan 2023) from the top financial institutions such Citi, Morgan Stanely, Apollo, UBS, Credit Suisse, Blackrock, BNY Mellon, Deutsche Bank, Fidelity, HSBC, NatWest, Wells Fargo, etc.
+
+Analyzing the sentiment of global financial institutions' investment outlook (as of Jan 2023) from the top financial institutions such Citi, Morgan Stanley, Apollo, UBS, Credit Suisse, Blackrock, BNY Mellon, Deutsche Bank, Fidelity, HSBC, NatWest, Wells Fargo, etc.
+
+![Screenshot 2023-03-26 at 10 05 16 PM](https://user-images.githubusercontent.com/124749297/227823707-5c64a838-bd9b-4478-bb18-5354ae79b61f.png)
+
+
+
+## Context 
+
+Context on this research was increasining interest rates, ongoing war between Russia and the Ukraine and a reopening China amongst many other things.
 
 Links to original research is below:
 
