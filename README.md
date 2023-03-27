@@ -15,6 +15,8 @@ Context on this research was increasining interest rates, ongoing war between Ru
 
 Using NLTK, WordCloud, and TextBlob
 
+## Sources
+
 Links to original research is below:
 
 * Goldman Sachs https://lnkd.in/eKzF_2K4
